@@ -82,17 +82,8 @@ pre, tt, code {
 }
 
 blockquote {
-  border-left: 5px solid #ccc;
-  margin: 0;
-  padding: 1px 0 1px 1em;
+  margin: 0 0 15px;
 }
-  .sections blockquote p {
-    font-family: Menlo, Consolas, Monaco, monospace;
-    font-size: 12px; line-height: 16px;
-    color: #999;
-    margin: 10px 0 0;
-    white-space: pre-wrap;
-  }
 
 ul.sections {
   list-style: none;
